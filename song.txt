@@ -1,0 +1,2 @@
+Режим вывода команд на экран (ECHO) включен.
+"Say, yes they know that you fought yourself another time" 
